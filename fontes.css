@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+body {
+    /*tipo de fonte*/
+    font-family: "Playfair Display", serif;
+
+    /*tamanho da fonte */
+    font-size: 30px;
+
+    /*negrito*/
+    font-weight: bold;
+
+    /*espaçamento entre linhas*/
+    line-height: 1.5;
+
+    /*lugar do texto, exemplo: direita, esquerda ou centro
+    text-align: center;*/
+
+    /*serve para sublinhar*/
+    text-decoration: underline;
+
+    width: 50%;
+    margin: 0 auto;
+}
+h1 {
+    border: solid 5px black;
+
+    /*margin-right: 150px; margem direita*/
+    
+    /*margin-top: 20px 50px 100px 200px; sentido horario*/
+
+    /*padding: 500; espaço dentro da borda*/
+
+    /* margin-left: 150px; margem esquerda
+     margin-top: 150px; margem cima
+    margin-bottom: 150px; margem baixo*/
+
+}
