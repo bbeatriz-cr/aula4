@@ -1,0 +1,19 @@
+body {
+    background-color: #ffb3c6;
+}
+h4 {
+    border: #ff8fab dashed 3px;
+}
+li {
+    color: purple;
+}
+.deuses {
+    background-color: #ffe5ec;
+}
+#cabecalho {
+    background-color: #ffe5ec;
+}
+div p {
+    color: purple;
+}
+/* comentario */
